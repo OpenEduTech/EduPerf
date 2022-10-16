@@ -31,7 +31,7 @@ Codabench is a platform allowing you to flexibly specify a benchmark. First you 
 
 GLB is the Workshop of the Graph Learning Benchmarks. Inspired by the conference tracks in the computer vision and natural language processing communities that are dedicated to establishing new benchmark datasets and tasks, we call for contributions that establish novel ML tasks on novel graph-structured data which have the potential to (i) identifying systematic failure modes of existing GNNs and providing new technical challenges for the development of new models which highlight diverse future directions, (ii) raising the attention of the synergy of graph learning, and (iii) crowdsourcing benchmark datasets for various tasks of graph ML.
 
-OpenPerf 的主要目标：
+EduPerf 的主要目标：
 - 构建一系列教育场景下的数据集，用于各类计算教育学中的任务评测
 - 构建数据集上的不同挑战与任务，大部分来自真实的在线教育场景，特别是水杉在线平台中的
 - 构建不同任务上的评价指标，用于科学的性能评测，并能够指导现实问题
